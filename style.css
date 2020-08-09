@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+fieldset{
+    text-align: justify !important;
+    background-color: white;
+    padding: 10px;
+}
